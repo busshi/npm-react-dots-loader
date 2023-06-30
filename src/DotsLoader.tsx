@@ -1,5 +1,5 @@
 import React from "react";
-import "./DotsLoader.css";
+import "./dotsLoader.css";
 
 interface DotsLoaderProps {
   width?: string;
