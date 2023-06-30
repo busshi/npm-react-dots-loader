@@ -13,7 +13,7 @@ interface DotsLoaderStyle extends React.CSSProperties {
   "--dots-color"?: string;
 }
 
-const Switch: React.FC<DotsLoaderProps> = ({
+const DotsLoader: React.FC<DotsLoaderProps> = ({
   width = "20px",
   height = "20px",
   color = "#ddd",
@@ -33,4 +33,4 @@ const Switch: React.FC<DotsLoaderProps> = ({
   );
 };
 
-export default Switch;
+export default DotsLoader;
