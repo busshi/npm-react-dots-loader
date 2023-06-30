@@ -1,5 +1,3 @@
-![publish](https://github.com/busshi/npm-react-dots-loader/actions/workflows/publish-npm.yml/badge.svg)
-
 # React-Dots-Loader
 
 A custom React dots loader component reusable without extra dependency (only React dependencies).
