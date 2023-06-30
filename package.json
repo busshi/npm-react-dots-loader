@@ -1,6 +1,7 @@
 {
   "name": "@busshi/react-dots-loader",
   "version": "1.0.2",
+  "author": "BusshiDev",
   "description": "A custom dots loader for React",
   "private": false,
   "main": "src/index.tsx",
